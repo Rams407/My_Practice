@@ -1,3 +1,5 @@
+// this is for calculating addition without + operator
+
 #include<stdio.h>
 main()
 {
