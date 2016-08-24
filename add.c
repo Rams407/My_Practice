@@ -1,4 +1,5 @@
-//Adding Test line
+// this is for calculating addition without + operator
+// Adding Test line
 
 #include<stdio.h>
 main()
